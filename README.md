@@ -7,7 +7,7 @@ Author:
 
 License: [MIT license](LICENSE).
 
-Tags: `#hardware`, `#memory`, `#software_engineering`, `#VHDL`.
+Tags: `#computer_engineering`, `#hardware`, `#memory`, `#VHDL`.
 
 
 ## University
