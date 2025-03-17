@@ -21,7 +21,7 @@ Academic Year: 2022/2023.
 
 ## Specification
 
-Implement an hardware module in VHDL that functions as an interface between a memory and four output channels. The module receives serial instructions regarding a memory address and the desired output channel. 
+Implement a hardware module in VHDL that acts as an interface between a memory and four output channels. The module receives serial instructions regarding a memory address and the desired output channel.
 
 The system receives the input data via a single serial bit indicating the memory address from which to retrieve the data and the corresponding output channel. The system outputs consist of four parallel channels that transmit the entire memory word.
 
